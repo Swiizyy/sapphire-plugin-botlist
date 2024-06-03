@@ -166,12 +166,6 @@ export namespace BotList {
 		discordExtremeList?: string;
 
 		/**
-		 * @see https://blist.xyz
-		 * @since 1.2.0
-		 */
-		blist?: string;
-
-		/**
 		 * @see https://discordservices.net
 		 * @since 1.2.0
 		 */
