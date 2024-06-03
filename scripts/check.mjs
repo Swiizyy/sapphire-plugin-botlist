@@ -14,8 +14,6 @@ const sites = [
 	['https://discord.bots.gg/api/v1', undefined, 'GET'],
 	['https://discordextremelist.xyz'],
 	['https://api.discordextremelist.xyz/v2/health'],
-	['https://blist.xyz'],
-	['https://blist.xyz/api/v2'],
 	['https://discordservices.net'],
 	['https://api.discordservices.net'],
 	['https://disforge.com'],

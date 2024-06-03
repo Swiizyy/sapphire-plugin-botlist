@@ -81,16 +81,6 @@ export class Post {
 		);
 	}
 
-	public async blist() {
-		return this.query(
-			`https://blist.xyz/api/v2/bot/${this.botList.clientId}/stats`,
-			this.botList.keys.blist!,
-			JSON.stringify({ server_count: await this.botList.computeGuilds(), shard_count: this.shards }),
-			'https://blist.xyz',
-			'patch'
-		);
-	}
-
 	public async discordServices() {
 		return this.query(
 			`https://api.discordservices.net/bot/${this.botList.clientId}/stats`,
