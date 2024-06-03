@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+# [1.3.4](https://github.com/swiizyy/sapphire-plugin-botlist/compare/v1.3.3...v1.3.4) - (2024-06-03)
+
+## 🐛 Bug Fixes
+
+- Remove Discord Labs from supported bot lists ([92e03f4](https://github.com/swiizyy/sapphire-plugin-botlist/commit/92e03f4f4335a4451474be49a62ec9c2f54a6671))
+
 # [1.3.1](https://github.com/swiizyy/sapphire-plugin-botlist/compare/v1.3.0...v1.3.1) - (2024-06-03)
 
 ## 📝 Documentation
