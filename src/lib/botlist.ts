@@ -148,12 +148,6 @@ export namespace BotList {
 		discords?: string;
 
 		/**
-		 * @see https://bots.discordlabs.org
-		 * @since 1.0.0
-		 */
-		discordLabs?: string;
-
-		/**
 		 * @see https://botlist.me
 		 * @since 1.0.0
 		 */
