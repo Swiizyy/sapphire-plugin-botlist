@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+# [1.3.5](https://github.com/swiizyy/sapphire-plugin-botlist/compare/v1.3.4...v1.3.5) - (2024-06-03)
+
+## 🐛 Bug Fixes
+
+- Remove blist.xyz from supported bot lists ([5ee1319](https://github.com/swiizyy/sapphire-plugin-botlist/commit/5ee13197dfe5a050d1992c54068267bd9a2fd14f))
+
 # [1.3.4](https://github.com/swiizyy/sapphire-plugin-botlist/compare/v1.3.3...v1.3.4) - (2024-06-03)
 
 ## 🐛 Bug Fixes
