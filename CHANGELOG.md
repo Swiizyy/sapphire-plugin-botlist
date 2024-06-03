@@ -1,4 +1,13 @@
 # Changelog
+All notable changes to this project will be documented in this file.
+
+# [1.3.1](https://github.com/devtomio/sapphire-plugin-botlist/compare/v1.3.0...v1.3.1) - (2024-06-03)
+
+## 📝 Documentation
+
+- Fix broken changelog ([bf5f2a5](https://github.com/devtomio/sapphire-plugin-botlist/commit/bf5f2a58d02d8c56fd19af866f1dfba678ba5b8d))
+
+# Changelog
 
 All notable changes to this project will be documented in this file.
 
