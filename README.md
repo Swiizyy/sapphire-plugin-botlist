@@ -1,11 +1,11 @@
 <div align="center">
 
-# @devtomio/plugin-botlist
+# @swiizyy/plugin-botlist
 
 **Plugin for <a href="https://github.com/sapphiredev/framework">@sapphire/framework</a> to post stats to several discord bot lists.**
 
-[![GitHub](https://img.shields.io/github/license/devtomio/sapphire-plugin-botlist)](https://github.com/devtomio/sapphire-plugin-botlist/blob/main/LICENSE.md)
-[![npm](https://img.shields.io/npm/v/@devtomio/plugin-botlist?color=crimson&logo=npm&style=flat-square)](https://www.npmjs.com/package/@devtomio/plugin-botlist)
+[![GitHub](https://img.shields.io/github/license/swiizyy/sapphire-plugin-botlist)](https://github.com/swiizyy/sapphire-plugin-botlist/blob/main/LICENSE.md)
+[![npm](https://img.shields.io/npm/v/@swiizyy/plugin-botlist?color=crimson&logo=npm&style=flat-square)](https://www.npmjs.com/package/@swiizyy/plugin-botlist)
 
 </div>
 
@@ -22,14 +22,14 @@ This plugin enables the integration of many bot lists such as Top.gg, Discord La
 
 ## Installation
 
-`@devtomio/plugin-botlist` depends on the following packages. Be sure to install these along with this package!
+`@swiizyy/plugin-botlist` depends on the following packages. Be sure to install these along with this package!
 
 -   [`@sapphire/framework`](https://www.npmjs.com/package/@sapphire/framework)
 
 You can use the following command to install this package, or replace `npm install` with your package manager of choice.
 
 ```sh
-npm install @devtomio/plugin-botlist @sapphire/framework discord.js
+npm install @swiizyy/plugin-botlist @sapphire/framework discord.js
 ```
 
 ---
@@ -41,11 +41,11 @@ npm install @devtomio/plugin-botlist @sapphire/framework discord.js
 In your main or setup file, register the plugin:
 
 ```javascript
-require('@devtomio/plugin-botlist/register');
+require('@swiizyy/plugin-botlist/register');
 ```
 
 ```javascript
-require('@devtomio/plugin-botlist/register');
+require('@swiizyy/plugin-botlist/register');
 
 const client = new SapphireClient({
 	/* your bot options */
@@ -75,11 +75,11 @@ void main();
 In your main or setup file, register the plugin:
 
 ```typescript
-import '@devtomio/plugin-botlist/register';
+import '@swiizyy/plugin-botlist/register';
 ```
 
 ```typescript
-import '@devtomio/plugin-botlist/register';
+import '@swiizyy/plugin-botlist/register';
 
 const client = new SapphireClient({
 	/* your bot options */
@@ -127,6 +127,6 @@ If you enable the `autoPost` option, the plugin will automatically publish the d
 
 Thank you to all the people who already contributed to this project!
 
-<a href="https://github.com/devtomio/sapphire-plugin-botlist/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=devtomio/sapphire-plugin-botlist" />
+<a href="https://github.com/swiizyy/sapphire-plugin-botlist/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=swiizyy/sapphire-plugin-botlist" />
 </a>
